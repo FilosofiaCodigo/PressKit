@@ -13,3 +13,8 @@ Ahmed Castro es un desarrollador de software y creador de contenido en su canal 
 * [Linkedin](https://www.linkedin.com/company/filosofia-codigo/)
 * [Dev.to](https://dev.to/turupawn)
 * Correo: emely@filosofiacodigo.com
+
+![](https://raw.githubusercontent.com/FilosofiaCodigo/PressKit/main/img/01.jpg)
+![](https://raw.githubusercontent.com/FilosofiaCodigo/PressKit/main/img/02.png)
+![](https://raw.githubusercontent.com/FilosofiaCodigo/PressKit/main/img/03.jpg)
+![](https://raw.githubusercontent.com/FilosofiaCodigo/PressKit/main/img/04.jpg)
