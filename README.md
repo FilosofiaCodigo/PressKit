@@ -18,3 +18,4 @@ Ahmed Castro es un desarrollador de software y creador de contenido en su canal 
 ![](https://raw.githubusercontent.com/FilosofiaCodigo/PressKit/main/img/02.png)
 ![](https://raw.githubusercontent.com/FilosofiaCodigo/PressKit/main/img/03.jpg)
 ![](https://raw.githubusercontent.com/FilosofiaCodigo/PressKit/main/img/04.jpg)
+![](https://raw.githubusercontent.com/FilosofiaCodigo/PressKit/main/img/05.jpg)
